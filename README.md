@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adesina-Abiodun
 - 👀 I’m interested in Frontend dev
 - 🌱 I’m currently learning HTML, CSS AND JS
-- 💞️ I’m looking to collaborate on related projects on HTML and CSS
+- 💞️ I’m looking to collaborate on related projects on ReactJs
 - 📫 How to reach me @adesinaabiodunpaul@gmail.com
 
 <!---
