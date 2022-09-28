@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesina Abiodun Paul</h1>
 <h3 align="center">A Web Developer</h3>
-![Header](./github-header-image (1).png)
-
+![](/images/./github-header-image (1).png)
 - 🌱 I’m currently learning **Python, ReactJs, Redux and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adesina-Abiodun](https://github.com/Adesina-Abiodun)
