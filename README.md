@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adesina-Abiodun](https://github.com/Adesina-Abiodun)
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, TAILWINDCSS,JAVASCRIPT, React...**
+- 💬 Ask me about **BOOTSTRAP, TAILWINDCSS,JAVASCRIPT, React...**
 
 - 📫 How to reach me **adesinaabiodunpaul@gmail.com**
 
